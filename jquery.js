@@ -1,0 +1,1 @@
+console.log($("a").attr("href","http://google.www.com"));
